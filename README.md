@@ -8,9 +8,8 @@
 👩🏻‍💻 Driven AI/ML developer from India, merging research with real-world impact | Documenting My Journey in AI & Tech<br>🎓 B.Tech in Information Technology, Walchand Institute of Technology, Punyashlok Ahilyadevi Holkar University<br>🔬 Passionate about Machine Learning, Deep Learning, NLP, AI & Robotics<br>🌍 Open-Source Contributor (SWOC) | AIC Top Innovator | Code Gladiators '24 Finalist<br>📽️ Sharing projects, research, and tech learnings along the way<br>📫 Reach me at: gauriphatate00@gmail.com
 
 
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauriphatate00@gmail.com) 
 <p align="left">
 <a href="https://linkedin.com/in/gauriphatate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauriphatate" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gauriphatate00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gauriphatate00" height="30" width="40" /></a>
@@ -18,6 +17,8 @@
 <a href="https://www.leetcode.com/gauriphatate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauriphatate" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@gauriphatate00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gauriphatate00" height="30" width="40" /></a>
 </p>
+
+
 
 # 🧠💻 Tech Stack:
 <div align="center">
@@ -44,6 +45,6 @@
 
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Gauri9977&icon=6&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Gauri9977&icon=6&color=0)](https://visitcount.itsvg.in)
+---
